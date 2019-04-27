@@ -6,8 +6,8 @@
 * Open Command Prompt or Terminal.
 * Traverse to the location of the downloaded jar file using cd <path-to-jar-file>
 * Run the jar file using command- java -jar MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar
-* A default browser will be opened and will prompt the user to login to the google account.
-* If the browser doesn't get opened,then copy the https link provided after running the code and paste it in a browser.
+* A browser instance will open and will prompt the user to login to the google account.
+* If the browser doesn't open, then copy the https link provided after running the jar file and open it in a browser.
 * After logging to google account,it asks for the permissions to read and download the google contacts.
 * Grant permission to the application when prompted.
 * After user gets authenticated,you may close the browser.
