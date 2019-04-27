@@ -1,9 +1,9 @@
 # GoogleContacts
 ## Code to download Google contacts to the local disk.
 ### To run the project -
-* Go to the Target folder of the project (MyGoogleContacts/Target)
-* Download the jar file with dependencies "MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar" and save it to a location in your system
-* Open command Prompt.
+
+* Download the "MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar" jar file from "https://github.com/PujaKumari30/GoogleContacts/releases/download/v1/MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar" or from the Target folder of this project and save it to your system.
+* Open Command Prompt.
 * Move to the location of the downloaded jar file using cd <path-to-jar-file>
 * Run the jar file using command- java -jar MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 * A default browser will be opened and will prompt the user to login to the google account.
