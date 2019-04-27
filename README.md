@@ -12,4 +12,4 @@
 * Grant permission to the application when prompted.
 * After user gets authenticated,you may close the browser.
 * The contatcs will be downloaded at the following location - <user-home-directory>/MyGoogleContacts. For example - In Windows,the location of the downloaded contacts will be C:\Users\kupuja\MyGoogleContacts. All contacts will be downloaded as .vcf files
- 
+* The test case document can be accessed through this link - https://github.com/PujaKumari30/GoogleContacts/releases/download/v1/MyGoogleContacts_TestCases.xlsx
