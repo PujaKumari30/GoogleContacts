@@ -3,8 +3,8 @@
 ### To run the project -
 
 * Download the "MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar" jar file from "https://github.com/PujaKumari30/GoogleContacts/releases/download/v1/MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar" or from the Target folder of this project and save it to your system.
-* Open Command Prompt.
-* Move to the location of the downloaded jar file using cd <path-to-jar-file>
+* Open Command Prompt or Terminal.
+* Traverse to the location of the downloaded jar file using cd <path-to-jar-file>
 * Run the jar file using command- java -jar MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 * A default browser will be opened and will prompt the user to login to the google account.
 * If the browser doesn't get opened,then copy the https link provided after running the code and paste it in a browser.
